@@ -1,0 +1,4 @@
+e_sport_base:
+    resource: "@ESportBaseBundle/Resources/config/routing.yml"
+    prefix:   /
+
